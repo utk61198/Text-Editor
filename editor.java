@@ -37,6 +37,7 @@ public class editor extends JFrame implements ActionListener, ItemListener,Mouse
 
     public editor() throws HeadlessException {
 
+        
         lower.setBackground(new Color(191,255,128));
         upper.setBackground(new Color(191,255,128));                       //setting the color of background and buttons
         ch2.setBackground(new Color(191,255,128));
